@@ -2,6 +2,25 @@
 
 A simple and secure personal finance tracking web application built with Flask.
 
+📸 Screenshots
+
+![01  Before Logging in](https://github.com/user-attachments/assets/7eb6158f-39b6-4d59-b176-89a3ea4fef50)
+Welcome Page and secure login system with password hashing
+
+![02  Dashboard](https://github.com/user-attachments/assets/5ba63f59-56eb-4ccb-988f-73a328a54a89)
+Dashboard with easy-to-use form for adding income and expenses
+
+![03  Dashboard with Transactions](https://github.com/user-attachments/assets/48993055-3800-47d1-b4f6-b593a2773d53)
+Dashboard with updated financial balances at a glance.
+
+![04  Recent Transactions](https://github.com/user-attachments/assets/2a57ca89-c138-423d-bb7d-093bd71b5eb4)
+Complete transaction history with filtering and categorization
+
+
+
+#Screenshots
+
+
 ## Features
 
 - User registration and login system
